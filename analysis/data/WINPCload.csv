@@ -1,0 +1,19 @@
+PC Variables,HealthVariables,Loading(corr)
+1,weight(kg),0.95971
+1,waistIliac,0.88276
+1,BMI,0.95489
+1,DXA Tissue,0.9341
+1,DXA Region,0.93851
+1,VO2LMin,0.31332
+2,weight(kg),0.01297
+2,waistIliac,-0.085367
+2,BMI,0.012382
+2,DXA Tissue,-0.13844
+2,DXA Region,-0.13647
+2,VO2LMin,0.94646
+3,weight(kg),0.17686
+3,waistIliac,0.32027
+3,BMI,0.16754
+3,DXA Tissue,-0.32331
+3,DXA Region,-0.31256
+3,VO2LMin,-0.06366
