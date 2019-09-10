@@ -1,0 +1,13 @@
+,Factor,Direction,Pathway,Frequency
+0,PC1,greater,projection,0.5174825174825175
+1,PC1,greater,commissural,0.04067796610169491
+2,PC1,greater,association,0.28185328185328185
+3,PC1,lesser,projection,0.5174825174825175
+4,PC1,lesser,commissural,0.1864406779661017
+5,PC1,lesser,association,0.5057915057915058
+6,PC2,greater,projection,0.6993006993006993
+7,PC2,greater,commissural,0.22372881355932203
+8,PC2,greater,association,0.6718146718146718
+9,PC2,lesser,projection,0.5524475524475524
+10,PC2,lesser,commissural,0.22372881355932203
+11,PC2,lesser,association,0.6332046332046332
